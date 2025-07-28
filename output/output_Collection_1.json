@@ -1,0 +1,2868 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cuisine.pdf",
+      "South of France - Cities.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Traditions and Culture.pdf",
+      "South of France - History.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends."
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Travel Tips",
+      "page_number": 2,
+      "content": "Travel Tips",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 22
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Boat Trip to the Calanques",
+      "page_number": 3,
+      "content": "Boat Trip to the Calanques",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 17
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Travel-Sized Toiletries:",
+      "page_number": 2,
+      "content": "Travel-Sized Toiletries:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 15
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Travel Pillow and Blanket:",
+      "page_number": 2,
+      "content": "Travel Pillow and Blanket:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 14
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+      "page_number": 1,
+      "content": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "A Culinary Journey Through the South of France",
+      "page_number": 1,
+      "content": "A Culinary Journey Through the South of France",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Introduction",
+      "page_number": 1,
+      "content": "Introduction",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Types of Food",
+      "page_number": 2,
+      "content": "Types of Food",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes",
+      "page_number": 3,
+      "content": "Famous Dishes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Must-Visit Restaurants",
+      "page_number": 4,
+      "content": "Must-Visit Restaurants",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Wine Regions and Types of Wines",
+      "page_number": 5,
+      "content": "Wine Regions and Types of Wines",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Culinary Experiences",
+      "page_number": 6,
+      "content": "Culinary Experiences",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Conclusion",
+      "page_number": 8,
+      "content": "Conclusion",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cuisine.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Comprehensive Guide to Major Cities in the South of France",
+      "page_number": 1,
+      "content": "Comprehensive Guide to Major Cities in the South of France",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Introduction",
+      "page_number": 1,
+      "content": "Introduction",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Overview of the Region",
+      "page_number": 2,
+      "content": "Overview of the Region",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Best Time to Visit",
+      "page_number": 2,
+      "content": "Best Time to Visit",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Transportation",
+      "page_number": 2,
+      "content": "Transportation",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Language",
+      "page_number": 2,
+      "content": "Language",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Marseille: The Oldest City in France",
+      "page_number": 3,
+      "content": "Marseille: The Oldest City in France",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Old Port (Vieux-Port)",
+      "page_number": 3,
+      "content": "Old Port (Vieux-Port)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Basilica of Notre-Dame de la Garde",
+      "page_number": 3,
+      "content": "Basilica of Notre-Dame de la Garde",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "MuCEM (Museum of European and Mediterranean Civilizations)",
+      "page_number": 3,
+      "content": "MuCEM (Museum of European and Mediterranean Civilizations)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Le Panier",
+      "page_number": 3,
+      "content": "Le Panier",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Fish Market at the Old Port",
+      "page_number": 3,
+      "content": "Fish Market at the Old Port",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Street Art in Cours Julien",
+      "page_number": 3,
+      "content": "Street Art in Cours Julien",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Nice: The Jewel of the French Riviera",
+      "page_number": 5,
+      "content": "Nice: The Jewel of the French Riviera",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Promenade des Anglais",
+      "page_number": 5,
+      "content": "Promenade des Anglais",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Castle Hill (Colline du Château)",
+      "page_number": 5,
+      "content": "Castle Hill (Colline du Château)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Old Town (Vieux Nice)",
+      "page_number": 5,
+      "content": "Old Town (Vieux Nice)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Matisse Museum",
+      "page_number": 5,
+      "content": "Matisse Museum",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Russian Orthodox Cathedral",
+      "page_number": 5,
+      "content": "Russian Orthodox Cathedral",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Marc Chagall National Museum",
+      "page_number": 5,
+      "content": "Marc Chagall National Museum",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Parc Phoenix",
+      "page_number": 5,
+      "content": "Parc Phoenix",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Avignon: The City of Popes",
+      "page_number": 7,
+      "content": "Avignon: The City of Popes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Palais des Papes",
+      "page_number": 7,
+      "content": "Palais des Papes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Pont Saint-Bénézet (Pont d'Avignon)",
+      "page_number": 7,
+      "content": "Pont Saint-Bénézet (Pont d'Avignon)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Avignon Cathedral",
+      "page_number": 7,
+      "content": "Avignon Cathedral",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Place de l'Horloge",
+      "page_number": 7,
+      "content": "Place de l'Horloge",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Opéra Grand Avignon",
+      "page_number": 7,
+      "content": "Opéra Grand Avignon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Arts Scene",
+      "page_number": 7,
+      "content": "Arts Scene",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture",
+      "page_number": 8,
+      "content": "Aix-en-Provence: A City of Art and Culture",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Toulouse: The Pink City",
+      "page_number": 9,
+      "content": "Toulouse: The Pink City",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "page_number": 10,
+      "content": "Montpellier: A University City with Medieval Charm",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Perpignan: A Blend of French and Catalan Cultures",
+      "page_number": 11,
+      "content": "Perpignan: A Blend of French and Catalan Cultures",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Arles: A Roman Treasure",
+      "page_number": 12,
+      "content": "Arles: A Roman Treasure",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Carcassonne: A Medieval Fortress",
+      "page_number": 13,
+      "content": "Carcassonne: A Medieval Fortress",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Conclusion",
+      "page_number": 14,
+      "content": "Conclusion",
+      "full_path": "/app/Collection_1/PDFs/South of France - Cities.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Ultimate Guide to Activities and Things to Do in the South of France",
+      "page_number": 1,
+      "content": "Ultimate Guide to Activities and Things to Do in the South of France",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Introduction",
+      "page_number": 1,
+      "content": "Introduction",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Coastal Adventures",
+      "page_number": 2,
+      "content": "Coastal Adventures",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Beach Hopping",
+      "page_number": 2,
+      "content": "Beach Hopping",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nice",
+      "page_number": 2,
+      "content": "Nice",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Antibes",
+      "page_number": 2,
+      "content": "Antibes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Saint-Tropez",
+      "page_number": 2,
+      "content": "Saint-Tropez",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Marseille to Cassis",
+      "page_number": 2,
+      "content": "Marseille to Cassis",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Îles d'Hyères",
+      "page_number": 2,
+      "content": "Îles d'Hyères",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cannes",
+      "page_number": 2,
+      "content": "Cannes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Menton",
+      "page_number": 2,
+      "content": "Menton",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Water Sports",
+      "page_number": 2,
+      "content": "Water Sports",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cannes, Nice, and Saint-Tropez",
+      "page_number": 2,
+      "content": "Cannes, Nice, and Saint-Tropez",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Toulon",
+      "page_number": 2,
+      "content": "Toulon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cerbère-Banyuls",
+      "page_number": 2,
+      "content": "Cerbère-Banyuls",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Mediterranean Coast",
+      "page_number": 2,
+      "content": "Mediterranean Coast",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Marseille",
+      "page_number": 2,
+      "content": "Marseille",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Port Grimaud",
+      "page_number": 2,
+      "content": "Port Grimaud",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "La Ciotat",
+      "page_number": 2,
+      "content": "La Ciotat",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cultural Experiences",
+      "page_number": 3,
+      "content": "Cultural Experiences",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Art and Museums",
+      "page_number": 3,
+      "content": "Art and Museums",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nice",
+      "page_number": 3,
+      "content": "Nice",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Antibes",
+      "page_number": 3,
+      "content": "Antibes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Saint-Paul-de-Vence",
+      "page_number": 3,
+      "content": "Saint-Paul-de-Vence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Aix-en-Provence",
+      "page_number": 3,
+      "content": "Aix-en-Provence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Arles",
+      "page_number": 3,
+      "content": "Arles",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Marseille",
+      "page_number": 3,
+      "content": "Marseille",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Toulouse",
+      "page_number": 3,
+      "content": "Toulouse",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Historical Sites",
+      "page_number": 3,
+      "content": "Historical Sites",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nîmes",
+      "page_number": 3,
+      "content": "Nîmes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Avignon",
+      "page_number": 3,
+      "content": "Avignon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Carcassonne",
+      "page_number": 3,
+      "content": "Carcassonne",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Arles",
+      "page_number": 3,
+      "content": "Arles",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Orange",
+      "page_number": 3,
+      "content": "Orange",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Aigues-Mortes",
+      "page_number": 3,
+      "content": "Aigues-Mortes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Grasse",
+      "page_number": 3,
+      "content": "Grasse",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Outdoor Activities",
+      "page_number": 4,
+      "content": "Outdoor Activities",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Hiking and Biking",
+      "page_number": 4,
+      "content": "Hiking and Biking",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Verdon Gorge",
+      "page_number": 4,
+      "content": "Verdon Gorge",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Luberon Regional Park",
+      "page_number": 4,
+      "content": "Luberon Regional Park",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Pyrenees National Park",
+      "page_number": 4,
+      "content": "Pyrenees National Park",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Mercantour National Park",
+      "page_number": 4,
+      "content": "Mercantour National Park",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Camargue",
+      "page_number": 4,
+      "content": "Camargue",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Mont Ventoux",
+      "page_number": 4,
+      "content": "Mont Ventoux",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Gorges du Tarn",
+      "page_number": 4,
+      "content": "Gorges du Tarn",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Water Activities",
+      "page_number": 4,
+      "content": "Water Activities",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Ardèche River",
+      "page_number": 4,
+      "content": "Ardèche River",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Dordogne River",
+      "page_number": 4,
+      "content": "Dordogne River",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Ubaye River",
+      "page_number": 4,
+      "content": "Ubaye River",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Gorges du Verdon",
+      "page_number": 4,
+      "content": "Gorges du Verdon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Lake Sainte-Croix",
+      "page_number": 4,
+      "content": "Lake Sainte-Croix",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Lake Serre-Ponçon",
+      "page_number": 4,
+      "content": "Lake Serre-Ponçon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cévennes National Park",
+      "page_number": 4,
+      "content": "Cévennes National Park",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Culinary Delights",
+      "page_number": 5,
+      "content": "Culinary Delights",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Wine Tasting",
+      "page_number": 5,
+      "content": "Wine Tasting",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Provence",
+      "page_number": 5,
+      "content": "Provence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Languedoc",
+      "page_number": 5,
+      "content": "Languedoc",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Châteauneuf-du-Pape",
+      "page_number": 5,
+      "content": "Châteauneuf-du-Pape",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Bandol",
+      "page_number": 5,
+      "content": "Bandol",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Côtes du Rhône",
+      "page_number": 5,
+      "content": "Côtes du Rhône",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Gaillac",
+      "page_number": 5,
+      "content": "Gaillac",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Bordeaux",
+      "page_number": 5,
+      "content": "Bordeaux",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cooking Classes",
+      "page_number": 5,
+      "content": "Cooking Classes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Provence",
+      "page_number": 5,
+      "content": "Provence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Périgord",
+      "page_number": 5,
+      "content": "Périgord",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nice",
+      "page_number": 5,
+      "content": "Nice",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Toulouse",
+      "page_number": 5,
+      "content": "Toulouse",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Marseille",
+      "page_number": 5,
+      "content": "Marseille",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Lyon",
+      "page_number": 5,
+      "content": "Lyon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Sarlat",
+      "page_number": 5,
+      "content": "Sarlat",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Festivals and Events",
+      "page_number": 6,
+      "content": "Festivals and Events",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cannes",
+      "page_number": 6,
+      "content": "Cannes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nice",
+      "page_number": 6,
+      "content": "Nice",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Avignon",
+      "page_number": 6,
+      "content": "Avignon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Arles",
+      "page_number": 6,
+      "content": "Arles",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Menton",
+      "page_number": 6,
+      "content": "Menton",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Grasse",
+      "page_number": 6,
+      "content": "Grasse",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Marseille",
+      "page_number": 6,
+      "content": "Marseille",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Relaxation and Wellness",
+      "page_number": 7,
+      "content": "Relaxation and Wellness",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Spa and Wellness Retreats",
+      "page_number": 7,
+      "content": "Spa and Wellness Retreats",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Aix-en-Provence",
+      "page_number": 7,
+      "content": "Aix-en-Provence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Bordeaux",
+      "page_number": 7,
+      "content": "Bordeaux",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Vichy",
+      "page_number": 7,
+      "content": "Vichy",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Evian-les-Bains",
+      "page_number": 7,
+      "content": "Evian-les-Bains",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Saint-Raphaël",
+      "page_number": 7,
+      "content": "Saint-Raphaël",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Biarritz",
+      "page_number": 7,
+      "content": "Biarritz",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cannes",
+      "page_number": 7,
+      "content": "Cannes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Yoga and Meditation Retreats",
+      "page_number": 7,
+      "content": "Yoga and Meditation Retreats",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Provence",
+      "page_number": 7,
+      "content": "Provence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Pyrenees",
+      "page_number": 7,
+      "content": "Pyrenees",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Côte d'Azur",
+      "page_number": 7,
+      "content": "Côte d'Azur",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Luberon",
+      "page_number": 7,
+      "content": "Luberon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Camargue",
+      "page_number": 7,
+      "content": "Camargue",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Saint-Tropez",
+      "page_number": 7,
+      "content": "Saint-Tropez",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Corsica",
+      "page_number": 7,
+      "content": "Corsica",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Shopping and Markets",
+      "page_number": 8,
+      "content": "Shopping and Markets",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Local Markets",
+      "page_number": 8,
+      "content": "Local Markets",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nice",
+      "page_number": 8,
+      "content": "Nice",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cannes",
+      "page_number": 8,
+      "content": "Cannes",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Avignon",
+      "page_number": 8,
+      "content": "Avignon",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Aix-en-Provence",
+      "page_number": 8,
+      "content": "Aix-en-Provence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Saint-Rémy-de-Provence",
+      "page_number": 8,
+      "content": "Saint-Rémy-de-Provence",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Uzès",
+      "page_number": 8,
+      "content": "Uzès",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Sarlat",
+      "page_number": 8,
+      "content": "Sarlat",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Boutique Shopping",
+      "page_number": 8,
+      "content": "Boutique Shopping",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Family-Friendly Activities",
+      "page_number": 9,
+      "content": "Family-Friendly Activities",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Theme Parks and Attractions",
+      "page_number": 9,
+      "content": "Theme Parks and Attractions",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Outdoor Adventures",
+      "page_number": 9,
+      "content": "Outdoor Adventures",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Educational Experiences",
+      "page_number": 9,
+      "content": "Educational Experiences",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nightlife and Entertainment",
+      "page_number": 11,
+      "content": "Nightlife and Entertainment",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Bars and Lounges",
+      "page_number": 11,
+      "content": "Bars and Lounges",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nightclubs",
+      "page_number": 11,
+      "content": "Nightclubs",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Conclusion",
+      "page_number": 13,
+      "content": "Conclusion",
+      "full_path": "/app/Collection_1/PDFs/South of France - Things to Do.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Planning, and Exploring",
+      "page_number": 1,
+      "content": "Planning, and Exploring",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Introduction",
+      "page_number": 1,
+      "content": "Introduction",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "General Packing Tips and Tricks",
+      "page_number": 2,
+      "content": "General Packing Tips and Tricks",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Layering:",
+      "page_number": 2,
+      "content": "Layering:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Versatile Clothing:",
+      "page_number": 2,
+      "content": "Versatile Clothing:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing Cubes:",
+      "page_number": 2,
+      "content": "Packing Cubes:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Roll Your Clothes:",
+      "page_number": 2,
+      "content": "Roll Your Clothes:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Reusable Bags:",
+      "page_number": 2,
+      "content": "Reusable Bags:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "First Aid Kit:",
+      "page_number": 2,
+      "content": "First Aid Kit:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Copies of Important Documents:",
+      "page_number": 2,
+      "content": "Copies of Important Documents:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Portable Laundry Kit:",
+      "page_number": 2,
+      "content": "Portable Laundry Kit:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Multi-Purpose Shoes:",
+      "page_number": 2,
+      "content": "Multi-Purpose Shoes:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Ziplock Bags:",
+      "page_number": 2,
+      "content": "Ziplock Bags:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Emergency Contact List:",
+      "page_number": 2,
+      "content": "Emergency Contact List:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for All Seasons",
+      "page_number": 3,
+      "content": "Packing for All Seasons",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Spring (March to May)",
+      "page_number": 3,
+      "content": "Spring (March to May)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Clothing:",
+      "page_number": 3,
+      "content": "Clothing:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Footwear:",
+      "page_number": 3,
+      "content": "Footwear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories:",
+      "page_number": 3,
+      "content": "Accessories:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 3,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Summer (June to August)",
+      "page_number": 3,
+      "content": "Summer (June to August)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Clothing:",
+      "page_number": 3,
+      "content": "Clothing:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Footwear:",
+      "page_number": 3,
+      "content": "Footwear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories:",
+      "page_number": 3,
+      "content": "Accessories:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 3,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Autumn (September to November)",
+      "page_number": 3,
+      "content": "Autumn (September to November)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Clothing:",
+      "page_number": 3,
+      "content": "Clothing:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Footwear:",
+      "page_number": 3,
+      "content": "Footwear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories:",
+      "page_number": 3,
+      "content": "Accessories:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 3,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Winter (December to February)",
+      "page_number": 3,
+      "content": "Winter (December to February)",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Clothing:",
+      "page_number": 3,
+      "content": "Clothing:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Footwear:",
+      "page_number": 3,
+      "content": "Footwear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories:",
+      "page_number": 3,
+      "content": "Accessories:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 4,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for Adults",
+      "page_number": 4,
+      "content": "Packing for Adults",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Clothing",
+      "page_number": 4,
+      "content": "Clothing",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Casual Wear:",
+      "page_number": 4,
+      "content": "Casual Wear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Evening Wear:",
+      "page_number": 4,
+      "content": "Evening Wear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Active Wear:",
+      "page_number": 4,
+      "content": "Active Wear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Swimwear:",
+      "page_number": 4,
+      "content": "Swimwear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories:",
+      "page_number": 4,
+      "content": "Accessories:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 4,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Toiletries",
+      "page_number": 4,
+      "content": "Toiletries",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Basic Toiletries:",
+      "page_number": 4,
+      "content": "Basic Toiletries:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Skincare:",
+      "page_number": 4,
+      "content": "Skincare:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Makeup:",
+      "page_number": 4,
+      "content": "Makeup:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Items:",
+      "page_number": 4,
+      "content": "Additional Items:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 4,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Gadgets and Accessories",
+      "page_number": 4,
+      "content": "Gadgets and Accessories",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Electronics:",
+      "page_number": 4,
+      "content": "Electronics:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Camera:",
+      "page_number": 4,
+      "content": "Camera:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Books and Entertainment:",
+      "page_number": 4,
+      "content": "Books and Entertainment:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 5,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for Kids",
+      "page_number": 6,
+      "content": "Packing for Kids",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Clothing",
+      "page_number": 6,
+      "content": "Clothing",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Comfortable Wear:",
+      "page_number": 6,
+      "content": "Comfortable Wear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Layering:",
+      "page_number": 6,
+      "content": "Layering:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Swimwear:",
+      "page_number": 6,
+      "content": "Swimwear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories:",
+      "page_number": 6,
+      "content": "Accessories:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 6,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Essentials",
+      "page_number": 6,
+      "content": "Essentials",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Diapers and Wipes:",
+      "page_number": 6,
+      "content": "Diapers and Wipes:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Snacks:",
+      "page_number": 6,
+      "content": "Snacks:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Toys and Entertainment:",
+      "page_number": 6,
+      "content": "Toys and Entertainment:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 6,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Toiletries",
+      "page_number": 6,
+      "content": "Toiletries",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Basic Toiletries:",
+      "page_number": 6,
+      "content": "Basic Toiletries:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Sunscreen:",
+      "page_number": 6,
+      "content": "Sunscreen:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Items:",
+      "page_number": 6,
+      "content": "Additional Items:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 6,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Safety and Comfort",
+      "page_number": 6,
+      "content": "Safety and Comfort",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Car Seat:",
+      "page_number": 6,
+      "content": "Car Seat:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Stroller:",
+      "page_number": 6,
+      "content": "Stroller:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Blanket and Pillow:",
+      "page_number": 6,
+      "content": "Blanket and Pillow:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 7,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Special Considerations",
+      "page_number": 7,
+      "content": "Special Considerations",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Beach Trips",
+      "page_number": 7,
+      "content": "Beach Trips",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Beach Bag:",
+      "page_number": 7,
+      "content": "Beach Bag:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Towels:",
+      "page_number": 7,
+      "content": "Towels:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Beach Toys:",
+      "page_number": 7,
+      "content": "Beach Toys:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Snorkeling Gear:",
+      "page_number": 7,
+      "content": "Snorkeling Gear:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 7,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Hiking and Outdoor Activities",
+      "page_number": 7,
+      "content": "Hiking and Outdoor Activities",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Backpack:",
+      "page_number": 7,
+      "content": "Backpack:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Water Bottle:",
+      "page_number": 7,
+      "content": "Water Bottle:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "First Aid Kit:",
+      "page_number": 7,
+      "content": "First Aid Kit:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Insect Repellent:",
+      "page_number": 7,
+      "content": "Insect Repellent:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 7,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "City Exploration",
+      "page_number": 7,
+      "content": "City Exploration",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Day Bag:",
+      "page_number": 7,
+      "content": "Day Bag:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Comfortable Shoes:",
+      "page_number": 7,
+      "content": "Comfortable Shoes:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Guidebook:",
+      "page_number": 7,
+      "content": "Guidebook:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 7,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Wine Tours",
+      "page_number": 7,
+      "content": "Wine Tours",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Comfortable Clothing:",
+      "page_number": 7,
+      "content": "Comfortable Clothing:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Notebook:",
+      "page_number": 8,
+      "content": "Notebook:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Water Bottle:",
+      "page_number": 8,
+      "content": "Water Bottle:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 8,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Tips and Tricks for Packing",
+      "page_number": 8,
+      "content": "Tips and Tricks for Packing",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Check the Weather:",
+      "page_number": 8,
+      "content": "Check the Weather:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Make a Packing List:",
+      "page_number": 8,
+      "content": "Make a Packing List:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Use Packing Cubes:",
+      "page_number": 8,
+      "content": "Use Packing Cubes:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Roll Your Clothes:",
+      "page_number": 8,
+      "content": "Roll Your Clothes:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Pack Dual-Purpose Items:",
+      "page_number": 8,
+      "content": "Pack Dual-Purpose Items:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Wear Bulky Items:",
+      "page_number": 8,
+      "content": "Wear Bulky Items:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Pack a Day Bag:",
+      "page_number": 8,
+      "content": "Pack a Day Bag:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Leave Room for Souvenirs:",
+      "page_number": 8,
+      "content": "Leave Room for Souvenirs:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "page_number": 8,
+      "content": "Additional Tips:",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Conclusion",
+      "page_number": 9,
+      "content": "Conclusion",
+      "full_path": "/app/Collection_1/PDFs/South of France - Tips and Tricks.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+      "page_number": 1,
+      "content": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Introduction",
+      "page_number": 1,
+      "content": "Introduction",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Restaurants",
+      "page_number": 2,
+      "content": "Restaurants",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Restaurants",
+      "page_number": 2,
+      "content": "Budget-Friendly Restaurants",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Family-Friendly Restaurants",
+      "page_number": 3,
+      "content": "Family-Friendly Restaurants",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Upscale Restaurants",
+      "page_number": 4,
+      "content": "Upscale Restaurants",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Restaurants",
+      "page_number": 6,
+      "content": "Luxurious Restaurants",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hotels",
+      "page_number": 8,
+      "content": "Hotels",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Hotels",
+      "page_number": 8,
+      "content": "Budget-Friendly Hotels",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Family-Friendly Hotels",
+      "page_number": 9,
+      "content": "Family-Friendly Hotels",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Upscale Hotels",
+      "page_number": 11,
+      "content": "Upscale Hotels",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Hotels",
+      "page_number": 12,
+      "content": "Luxurious Hotels",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Conclusion",
+      "page_number": 14,
+      "content": "Conclusion",
+      "full_path": "/app/Collection_1/PDFs/South of France - Restaurants and Hotels.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "A Comprehensive Guide to Traditions and Culture in the South of France",
+      "page_number": 1,
+      "content": "A Comprehensive Guide to Traditions and Culture in the South of France",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Introduction",
+      "page_number": 1,
+      "content": "Introduction",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Language and Literature",
+      "page_number": 2,
+      "content": "Language and Literature",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Language",
+      "page_number": 2,
+      "content": "Provençal Language",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Literature and Poetry",
+      "page_number": 2,
+      "content": "Literature and Poetry",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Festivals and Celebrations",
+      "page_number": 2,
+      "content": "Festivals and Celebrations",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Carnival of Nice",
+      "page_number": 2,
+      "content": "Carnival of Nice",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Fête de la Musique",
+      "page_number": 2,
+      "content": "Fête de la Musique",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Transhumance Festivals",
+      "page_number": 2,
+      "content": "Transhumance Festivals",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Traditional Sports and Games",
+      "page_number": 3,
+      "content": "Traditional Sports and Games",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Pétanque",
+      "page_number": 3,
+      "content": "Pétanque",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Course Camarguaise",
+      "page_number": 3,
+      "content": "Course Camarguaise",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Culinary Traditions",
+      "page_number": 3,
+      "content": "Culinary Traditions",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Cuisine",
+      "page_number": 3,
+      "content": "Provençal Cuisine",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Wine and Vineyards",
+      "page_number": 3,
+      "content": "Wine and Vineyards",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Truﬄe Hunting",
+      "page_number": 3,
+      "content": "Truﬄe Hunting",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Arts and Crafts",
+      "page_number": 4,
+      "content": "Arts and Crafts",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Pottery and Ceramics",
+      "page_number": 4,
+      "content": "Pottery and Ceramics",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Lavender Products",
+      "page_number": 4,
+      "content": "Lavender Products",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Religious and Spiritual Traditions",
+      "page_number": 4,
+      "content": "Religious and Spiritual Traditions",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Pilgrimages",
+      "page_number": 4,
+      "content": "Pilgrimages",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Christmas Traditions",
+      "page_number": 4,
+      "content": "Christmas Traditions",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Music and Dance",
+      "page_number": 5,
+      "content": "Music and Dance",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Folk Music",
+      "page_number": 5,
+      "content": "Provençal Folk Music",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Jazz Manouche",
+      "page_number": 5,
+      "content": "Jazz Manouche",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Conclusion",
+      "page_number": 5,
+      "content": "Conclusion",
+      "full_path": "/app/Collection_1/PDFs/South of France - Traditions and Culture.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "A Historical Journey Through the South of France",
+      "page_number": 1,
+      "content": "A Historical Journey Through the South of France",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Introduction",
+      "page_number": 1,
+      "content": "Introduction",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Marseille: The Oldest City in France",
+      "page_number": 2,
+      "content": "Marseille: The Oldest City in France",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Old Port (Vieux-Port)",
+      "page_number": 2,
+      "content": "Old Port (Vieux-Port)",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Basilica of Notre-Dame de la Garde",
+      "page_number": 2,
+      "content": "Basilica of Notre-Dame de la Garde",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Fort Saint-Jean",
+      "page_number": 2,
+      "content": "Fort Saint-Jean",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Le Panier",
+      "page_number": 2,
+      "content": "Le Panier",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Château d'If",
+      "page_number": 2,
+      "content": "Château d'If",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "La Marseillaise",
+      "page_number": 2,
+      "content": "La Marseillaise",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Nice: The Jewel of the French Riviera",
+      "page_number": 3,
+      "content": "Nice: The Jewel of the French Riviera",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Castle Hill (Colline du Château)",
+      "page_number": 3,
+      "content": "Castle Hill (Colline du Château)",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Promenade des Anglais",
+      "page_number": 3,
+      "content": "Promenade des Anglais",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Old Town (Vieux Nice)",
+      "page_number": 3,
+      "content": "Old Town (Vieux Nice)",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Russian Orthodox Cathedral",
+      "page_number": 3,
+      "content": "Russian Orthodox Cathedral",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Cimiez",
+      "page_number": 3,
+      "content": "Cimiez",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Carnival of Nice",
+      "page_number": 3,
+      "content": "Carnival of Nice",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Avignon: The City of Popes",
+      "page_number": 4,
+      "content": "Avignon: The City of Popes",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Palais des Papes",
+      "page_number": 4,
+      "content": "Palais des Papes",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Pont Saint-Bénézet (Pont d'Avignon)",
+      "page_number": 4,
+      "content": "Pont Saint-Bénézet (Pont d'Avignon)",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Avignon Cathedral",
+      "page_number": 4,
+      "content": "Avignon Cathedral",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Place de l'Horloge",
+      "page_number": 4,
+      "content": "Place de l'Horloge",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Rocher des Doms",
+      "page_number": 4,
+      "content": "Rocher des Doms",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Avignon Festival",
+      "page_number": 4,
+      "content": "Avignon Festival",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Nîmes: The Rome of France",
+      "page_number": 5,
+      "content": "Nîmes: The Rome of France",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Arena of Nîmes",
+      "page_number": 5,
+      "content": "Arena of Nîmes",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Maison Carrée",
+      "page_number": 5,
+      "content": "Maison Carrée",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Pont du Gard",
+      "page_number": 5,
+      "content": "Pont du Gard",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Jardins de la Fontaine",
+      "page_number": 5,
+      "content": "Jardins de la Fontaine",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Tour Magne",
+      "page_number": 5,
+      "content": "Tour Magne",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Temple of Diana",
+      "page_number": 5,
+      "content": "Temple of Diana",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Carcassonne: A Medieval Fortress",
+      "page_number": 6,
+      "content": "Carcassonne: A Medieval Fortress",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Cité de Carcassonne",
+      "page_number": 6,
+      "content": "Cité de Carcassonne",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Basilica of Saints Nazarius and Celsus",
+      "page_number": 6,
+      "content": "Basilica of Saints Nazarius and Celsus",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Château Comtal",
+      "page_number": 6,
+      "content": "Château Comtal",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Pont Vieux",
+      "page_number": 6,
+      "content": "Pont Vieux",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Inquisition Tower",
+      "page_number": 6,
+      "content": "Inquisition Tower",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Hoardings",
+      "page_number": 6,
+      "content": "Hoardings",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Toulouse: The Pink City",
+      "page_number": 7,
+      "content": "Toulouse: The Pink City",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Arles: A Roman Treasure",
+      "page_number": 8,
+      "content": "Arles: A Roman Treasure",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture",
+      "page_number": 9,
+      "content": "Aix-en-Provence: A City of Art and Culture",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "page_number": 10,
+      "content": "Montpellier: A University City with Medieval Charm",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Perpignan: A Blend of French and Catalan Cultures",
+      "page_number": 11,
+      "content": "Perpignan: A Blend of French and Catalan Cultures",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Conclusion",
+      "page_number": 12,
+      "content": "Conclusion",
+      "full_path": "/app/Collection_1/PDFs/South of France - History.pdf",
+      "importance_rank": 0
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Overview of the Region The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and mild winters, making it a year-round destination. The South of France is also famous for its cuisine, wines, and vibra...",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Marseille: The Oldest City in France Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic location on the Mediterranean coast made it a vital trading port throughout history. The city's rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the centuries, Marseille has been influenced by various cultures, including Greek, Roman, and North African, making it a melting pot of traditions and customs. Key Attractions Old...",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "General Packing Tips and Tricks The weather can vary, so pack layers to stay comfortable in diﬀerent temperatures. Versatile Clothing: Choose items that can be mixed and matched to create multiple outfits, helping you pack lighter. Packing Cubes: Use packing cubes to organize your clothes and maximize suitcase Roll Your Clothes: Rolling clothes saves space and reduces wrinkles. Travel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with airline regulations. Reusable Bags...",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "General Packing Tips and Tricks The weather can vary, so pack layers to stay comfortable in diﬀerent temperatures. Versatile Clothing: Choose items that can be mixed and matched to create multiple outfits, helping you pack lighter. Packing Cubes: Use packing cubes to organize your clothes and maximize suitcase Roll Your Clothes: Rolling clothes saves space and reduces wrinkles. Travel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with airline regulations. Reusable Bags...",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and Exploring Introduction Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip. ",
+      "page_number": 1
+    }
+  ]
+}
